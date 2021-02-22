@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: rgb(232, 232, 255);
+    font-family: Helvetica, Arial, sans-serif;
+    /* background-image: url('images/blabla.jpg'); */
+    background: cadetblue;
+  }
+  
+  h1 {
+    color: rgb(162, 0, 255);
+    font-size: 32px;
+    margin: 0;
+    padding: 0 0 16px 0;
+    font-weight: 600;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin: 0;
+    padding: 16px 0 8px 0;
+  }
+  
+  video {
+    width: 1000px;
+    height: 600px;
+    margin-bottom: 10px;
+    display:inline-block;
+  }
+  
